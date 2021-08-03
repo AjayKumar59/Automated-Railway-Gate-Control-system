@@ -8,7 +8,7 @@ The objective of this project is to create an automatic railway gate control sys
 This project can help us to reduce accidents in our country by introducing automatic railway  gate control system
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="/"><img src="https://github.com/AjayKumar59/Automated-Railway-Gate-Control-system/blob/b49d3a5ed1edfd9d9dcbdb95f9baab7d5f56e461/photo.png" alt="photo"></a>
   <br>
   Circuit diagram 
   <br>
